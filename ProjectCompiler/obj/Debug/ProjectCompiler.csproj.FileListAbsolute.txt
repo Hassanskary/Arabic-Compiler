@@ -1,0 +1,78 @@
+F:\VS\ProjectCompiler\bin\Debug\ProjectCompiler.exe.config
+F:\VS\ProjectCompiler\bin\Debug\ProjectCompiler.exe
+F:\VS\ProjectCompiler\bin\Debug\ProjectCompiler.pdb
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.AssemblyReference.cache
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.Properties.Resources.resources
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.exe
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.pdb
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.Form1.resources
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.Form2.resources
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.Form3.resources
+F:\VS\ProjectCompiler\obj\Debug\ProjectCompiler.StartForm.resources
+F:\VS\Compiler\ProjectCompiler\bin\Debug\ProjectCompiler.exe.config
+F:\VS\Compiler\ProjectCompiler\bin\Debug\ProjectCompiler.exe
+F:\VS\Compiler\ProjectCompiler\bin\Debug\ProjectCompiler.pdb
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.AssemblyReference.cache
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.Form1.resources
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.Form2.resources
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.Form3.resources
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.Properties.Resources.resources
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.StartForm.resources
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.exe
+F:\VS\Compiler\ProjectCompiler\obj\Debug\ProjectCompiler.pdb
+F:\VS\Compiler\ProjectCompilerR\bin\Debug\ProjectCompiler.exe.config
+F:\VS\Compiler\ProjectCompilerR\bin\Debug\ProjectCompiler.exe
+F:\VS\Compiler\ProjectCompilerR\bin\Debug\ProjectCompiler.pdb
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.csproj.AssemblyReference.cache
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.Form1.resources
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.Form2.resources
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.Form3.resources
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.Properties.Resources.resources
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.StartForm.resources
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.exe
+F:\VS\Compiler\ProjectCompilerR\obj\Debug\ProjectCompiler.pdb
+F:\VS\Compiler\ProjectCompilerFinal -19-12\bin\Debug\ProjectCompiler.exe.config
+F:\VS\Compiler\ProjectCompilerFinal -19-12\bin\Debug\ProjectCompiler.exe
+F:\VS\Compiler\ProjectCompilerFinal -19-12\bin\Debug\ProjectCompiler.pdb
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.csproj.AssemblyReference.cache
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Form1.resources
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Form2.resources
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Form3.resources
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Properties.Resources.resources
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.StartForm.resources
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.exe
+F:\VS\Compiler\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.pdb
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\bin\Debug\ProjectCompiler.exe.config
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\bin\Debug\ProjectCompiler.exe
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\bin\Debug\ProjectCompiler.pdb
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.csproj.AssemblyReference.cache
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Form1.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Form2.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Form3.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.Properties.Resources.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.StartForm.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.exe
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -19-12\obj\Debug\ProjectCompiler.pdb
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\bin\Debug\ProjectCompiler.exe.config
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\bin\Debug\ProjectCompiler.exe
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\bin\Debug\ProjectCompiler.pdb
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.csproj.AssemblyReference.cache
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.Form1.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.Form2.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.Form3.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.Properties.Resources.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.StartForm.resources
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.csproj.GenerateResource.cache
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.csproj.CoreCompileInputs.cache
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.exe
+C:\Users\EL-Bustan\Desktop\ProjectCompilerFinal -22-12\obj\Debug\ProjectCompiler.pdb
